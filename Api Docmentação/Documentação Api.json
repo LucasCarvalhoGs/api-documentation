@@ -23,7 +23,11 @@
 					},
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": ""
+						},
+						"description": "**Listar** é uma ação que geralmente segue o cadastro, permitindo visualizar ou organizar informações registradas. Por exemplo, uma lista pode ser gerada para mostrar todas as pessoas cadastradas em uma plataforma ou para exibir itens de interesse de um usuário, como produtos ou serviços. Esse processo de listagem é fundamental para a navegação e a organização de dados de forma prática e eficiente."
 					},
 					"response": []
 				},
@@ -38,12 +42,14 @@
 						"header": [],
 						"url": {
 							"raw": ""
-						}
+						},
+						"description": "O **cadastro** é um processo essencial em muitos contextos, especialmente no ambiente digital. Ele consiste na coleta e no registro de informações pessoais de um indivíduo, geralmente com o objetivo de conceder acesso a um sistema, serviço ou plataforma. O cadastro permite que o sistema reconheça o usuário, personalize sua experiência e forneça funcionalidades específicas com base nos dados fornecidos.\n\nEm um processo de cadastro típico, o usuário é solicitado a preencher um formulário com informações como:\n\n1. **Nome completo**: Identifica o indivíduo.\n    \n2. **E-mail**: Serve para comunicação e autenticação.\n    \n3. **Senha**: Garante a segurança do acesso à conta.\n    \n4. **Endereço** (em alguns casos): Pode ser necessário para entregas ou verificação de local.\n    \n5. **Número de telefone** (em alguns casos): Utilizado para comunicação adicional ou segurança.\n    \n\nAlém desses dados básicos, o cadastro também pode envolver a coleta de outras informações específicas, dependendo do tipo de serviço oferecido (como preferências pessoais, data de nascimento, etc.).\n\nUma vez concluído o cadastro, o sistema pode gerar um perfil único para o usuário, permitindo acesso a funcionalidades, serviços e recursos exclusivos. O cadastro também serve como base para a autenticação e controle de acesso, permitindo que o usuário acesse a plataforma com segurança.\n\nA **privacidade e segurança** dos dados são elementos fundamentais em qualquer processo de cadastro, por isso, as plataformas devem adotar boas práticas de proteção de dados, conforme exigido por leis como a LGPD (Lei Geral de Proteção de Dados) no Brasil, ou o GDPR (Regulamento Geral sobre a Proteção de Dados) na União Europeia.\n\nEm resumo, o cadastro é a porta de entrada para muitos serviços e plataformas digitais, garantindo que o usuário tenha uma experiência personalizada e segura."
 					},
 					"response": []
 				}
 			],
-			"id": "bfb73d9c-640f-489e-8ae5-59fe0ffededa"
+			"id": "bfb73d9c-640f-489e-8ae5-59fe0ffededa",
+			"description": "As pessoas são seres humanos com suas complexidades, emoções e interações sociais. Cada indivíduo é único, com suas próprias histórias, experiências e perspectivas. As relações entre as pessoas são fundamentais para o desenvolvimento social, emocional e até mesmo profissional, e elas influenciam profundamente a sociedade como um todo. Em um mundo cada vez mais conectado, a compreensão da diversidade e da natureza humana se torna ainda mais essencial.\n\nNo contexto de sistemas e plataformas, o **cadastro** refere-se ao processo de registrar informações sobre uma pessoa para que ela tenha acesso a serviços ou funcionalidades específicas. Esse processo geralmente envolve o fornecimento de dados pessoais, como nome, e-mail, senha, e, em alguns casos, outros dados relevantes, como endereço ou número de telefone. Através do cadastro, é possível garantir a segurança e a personalização de serviços oferecidos, além de facilitar a comunicação entre a pessoa e a plataforma."
 		}
 	]
 }
