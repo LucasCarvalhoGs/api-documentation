@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "8aed6d77-44cc-4d2d-b493-8deef96cf397",
+		"name": "Documentação Api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "43865482-8aed6d77-44cc-4d2d-b493-8deef96cf397"
+	},
+	"item": [
+		{
+			"name": "Introdução",
+			"item": [],
+			"id": "5796b24d-b203-43c2-88d0-408dd9a28637",
+			"description": "Variáveis de ambiente são valores que configuram o comportamento do sistema e de programas. Aqui estão algumas principais:\n\n- **PATH**: Diretórios onde o sistema busca executáveis.\n    \n- **HOME (Linux/macOS) / USERPROFILE (Windows)**: Diretório pessoal do usuário.\n    \n- **USER**: Nome do usuário logado.\n    \n- **SHELL (Linux/macOS)**: Tipo de shell (ex: `/bin/bash`).\n    \n- **TEMP / TMP**: Diretório para arquivos temporários.\n    \n- **LANG**: Configuração de linguagem e localidade.\n    \n- **JAVA_HOME**: Caminho para a instalação do Java.\n    \n\nEssas variáveis podem ser usadas por programas e scripts para adaptar seu funcionamento ao ambiente."
+		},
+		{
+			"name": "Pessoas",
+			"item": [
+				{
+					"name": "Listar",
+					"id": "edb0000c-7847-4937-a085-ed9f498a7f24",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Cadastrar",
+					"id": "495742dc-53cc-4195-9c2c-5549a0bebbc3",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
+			"id": "bfb73d9c-640f-489e-8ae5-59fe0ffededa"
+		}
+	]
+}
